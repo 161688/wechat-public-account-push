@@ -58,14 +58,14 @@ export const config = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [oLTcq6z22dgMCpIUf7Zbi2ONhSN8
     {
       // 想要发送的人的名字
       name: "亲爱的小龙",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oLTcq6z22dgMCpIUf7Zbi2ONhSN8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ml",
+      useTemplateId: "hwdql_OGjjqJkkuD03oCyG6CuVl_jOJjRBxV2T7OR8c",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -98,7 +98,7 @@ export const config = {
     {
       name: "亲爱的小龙",
       id: "oLTcq6z22dgMCpIUf7Zbi2ONhSN8",
-      useTemplateId: "ml",
+      useTemplateId: "hwdql_OGjjqJkkuD03oCyG6CuVl_jOJjRBxV2T7OR8c",
       province: "四川",
       city: "宜宾",
       horoscopeDate: '04-23',
@@ -117,7 +117,7 @@ export const config = {
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [lover_prattle]
     },
     {
       name: "老婆3",
@@ -146,7 +146,7 @@ export const config = {
   CALLBACK_USERS: [mx3475606131
     {
       // 一般都填自己
-      name: "梦欣",
+      name: "",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oLTcq65qdupwAcs6dkdtAnb9YMTI",
     },
