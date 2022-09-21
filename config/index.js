@@ -11,7 +11,8 @@ export const config = {
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "25a2882c20ccf02f86f37a58033817ca",
+  APP_SECRET: "b55063527d41a934feb07d21f80065c6
+",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -60,9 +61,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "小龙",
+      name: "亲爱的小龙",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "25a2882c20ccf02f86f37a58033817ca",
+      id: "oLTcq6z22dgMCpIUf7Zbi2ONhSN8",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "ml",
       // 所在省份
@@ -95,14 +96,14 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "亲爱的小龙",
+      id: "oLTcq6z22dgMCpIUf7Zbi2ONhSN8",
+      useTemplateId: "ml",
+      province: "四川",
+      city: "宜宾",
+      horoscopeDate: '04-23',
+      horoscopeDateType: '今日',
+      openUrl: "",
       festivals: [],
       customizedDateList: []
     },
@@ -142,7 +143,7 @@ export const config = {
   CALLBACK_TEMPLATE_ID: "oLTcq65qdupwAcs6dkdtAnb9YMTI",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: [mx3475606131
     {
       // 一般都填自己
       name: "梦欣",
